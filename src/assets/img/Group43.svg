@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="700px" viewBox="0 0 1440 700" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>8519F91C-B86F-47F5-857D-25A6184882B7</title>
+    <defs>
+        <radialGradient cx="50%" cy="48.2269374%" fx="50%" fy="48.2269374%" r="81.5374843%" gradientTransform="translate(0.500000,0.482269),scale(0.486111,1.000000),rotate(90.000000),translate(-0.500000,-0.482269)" id="radialGradient-1">
+            <stop stop-color="#3D76C9" offset="0%"></stop>
+            <stop stop-color="#092B7E" offset="100%"></stop>
+        </radialGradient>
+        <rect id="path-2" x="0" y="0" width="1440" height="700"></rect>
+        <rect id="path-4" x="0" y="0" width="1440" height="700"></rect>
+        <linearGradient x1="1.27291241%" y1="54.8891858%" x2="98.9562044%" y2="54.8891858%" id="linearGradient-6">
+            <stop stop-color="#0F0D4E" offset="0%"></stop>
+            <stop stop-color="#0081FA" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, -1117.000000)" id="Group-41">
+            <g transform="translate(-28.000000, 1117.000000)">
+                <g id="Group-43" transform="translate(28.000000, 0.000000)">
+                    <g id="220-SM939839">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <use id="Mask" fill="url(#radialGradient-1)" xlink:href="#path-2"></use>
+                        <mask id="mask-5" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <use id="Mask" fill="#092B7E" xlink:href="#path-4"></use>
+                    </g>
+                    <rect id="Rectangle" fill="url(#linearGradient-6)" fill-rule="nonzero" x="0" y="0" width="1440" height="700"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

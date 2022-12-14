@@ -1,0 +1,492 @@
+{
+    "Header": {
+        "title": "LET’S GROW TOGETHER",
+        "get_started": "Get Started",
+        "Jobs": "Jobs",
+        "Schemes": "Schemes",
+        "Learn": "Learn",
+        "home": "Home",
+        "english": "English",
+        "hindi": "हिन्दी",
+        "marathi": "मराठी",
+        "lanFlag": "EN",
+        "downloadOurApp": "Download our app",
+        "swayamConnect": "Swayam Connect"
+    },
+    "Footer": {
+        "contactUs": "Contact Us",
+        "downOurApp": "Download our app",
+        "swayamConnect": {
+            "title": "Swayam Connect",
+            "aboutUs": "About us",
+            "careers": "Careers",
+            "testimonials": "Testimonials",
+            "press": "Press/Media"
+        },
+        "quickLinks": {
+            "title": "Quick Links",
+            "jobs": "Jobs",
+            "courses": "Courses",
+            "govSchemes": "Government Schemes"
+        },
+        "help": {
+            "title": "Help",
+            "contactUs": "Contact us",
+            "freAskQues": "Frequently Asked Questions",
+            "regLocator": "Region Locator"
+        },
+        "connectWith": "Connect with us",
+        "copyright": "Copyright © 2020. All rights reserved Swayam Connect.",
+        "privacy": "Privacy",
+        "termAndCond": "Terms and Conditions"
+    },
+    "chooseLanguageModel": {
+        "title": "Choose Your Preferred Language",
+        "done": "Done"
+    },
+    "Navbar": {
+        "dashboard": "Dashboard",
+        "jobs": "Jobs",
+        "activate": "Activate",
+        "saved": "Saved",
+        "schems": "Schems",
+        "courses": "Courses",
+        "downloadCourses": "Download Courses",
+        "changePassword": "Change password",
+        "myProfile": "My Profile",
+        "support": "Support",
+        "logout": "Logout"
+    },
+    "LoginModel": {
+        "title": "I want to Login as",
+        "subTitle": "Attend a Course today to Get Hired Tomorrow",
+        "RoleMngBtn": {
+            "candidate": "Candidate",
+            "employee": "Employer",
+            "partner": "Partner"
+        },
+        "loginMethod": {
+            "mobile": "Via Mobile",
+            "email": "Via Email ID"
+        },
+        "inputLabel": {
+            "mobile": "Enter Your Mobile Number",
+            "email": "Enter Your Email",
+            "password": "Enter Your Passsword"
+        },
+        "inputError": {
+            "mobile": "",
+            "email": "Email is required",
+            "password": "Password is required"
+        },
+        "forgotPassword": "Forgot Password",
+        "loginBtn": "Login",
+        "registerDesLable": "Don't have an account with us? ",
+        "registerLable": "Register"
+    },
+    "ForgotPasswordModal": {
+        "title": "Forgot Password",
+        "subTitle": "Enter your registered email id or mobile number.",
+        "inputLabel": "Enter Emai ID / Mobile Number",
+        "backBtn": "Back",
+        "continueBtn": "Continue",
+        "registerDesLabel": "Don't have an account with us? ",
+        "registerLabel": "Register"
+    },
+    "ForgotPasswordSuccessModal": {
+        "title": "Forgot Password",
+        "description": "Reset link has been sent to your registered email id and mobile number",
+        "resend": "Resend"
+    },
+    "EmployeePanel": {
+        "Sidebar": {
+            "dashboard": "Dashboard",
+            "activeJobs": "Active Jobs",
+            "inactiveJobs": "Inactive Jobs",
+            "closedJobs": "Closed Jobs",
+            "postaJob": "Post a Job",
+            "jobApplication": "Job Application"
+        }
+    },
+    "Home": {
+        "GrowToGratherCard": {
+            "skills": "Healthcare Courses & Skills",
+            "jobs": "Discover Jobs",
+            "schemes": "Explore 200+ Govt Schemes",
+            "update": "Latest News & Updates"
+        },
+        "Skill": {
+            "title": "ACQUIRE NEW SKILLS",
+            "subTitle": "Click, Enroll & Learn",
+            "enrollForFree": "Enroll For Free",
+            "viewAllBtn": "View All"
+        },
+        "opportunities": {
+            "title": "DISCOVER NEW OPPORTUNITIES",
+            "subTitle": "Browse, Apply, Get Hired",
+            "applyNow": "Apply Now",
+            "viewAllBtn": "View All"
+        },
+        "news": {
+            "title": "NEWS & UPDATES",
+            "subTitle": "In publishing and graphic design, Lorem ipsum is a get curated information relevant to you commonly",
+            "readMore": "Read More",
+            "viewAllBtn": "View All"
+        },
+        "downBanner": {
+            "title": "Download Swayam Connect App now and get started",
+            "subTitle": "Right Woman, Right Job. For the Woman, with growth.",
+            "downloadApp": "Download our app"
+        },
+        "getStatedBanner": {
+            "title": "GET STARTED",
+            "subTitle": "Just 3 step away to start your journey!!",
+            "step1": "Login/Join",
+            "step2": "Build your profile",
+            "step3": "Start your career with skills,jobs and latest updates.",
+            "#title": "#SwayamHaiTohMumkinHai"
+        }
+    },
+    "scheme": {
+        "slider": {
+            "benefit": "Benefit",
+            "beneficiary": "Beneficiary",
+            "saveScheme": "Save Scheme",
+            "savedScheme": "Saved Scheme",
+            "enroll": "Enroll",
+            "enrolled": "Enrolled"
+        },
+        "filter": {
+            "state": "Select Your State",
+            "benifits": "Benefits",
+            "ratings": "Ratings",
+            "schemeCategory": "Scheme category",
+            "search": "Search Schemes",
+            "clear": "Clear"
+        }
+    },
+    "allScheme": {
+        "schemes": "Schemes",
+        "viewAllSchemes": "View All Schemes",
+        "readMore": "Read More"
+    },
+    "viewAllScheme": {
+        "allScheme": "All Schemes",
+        "loadMore": "Load More"
+    },
+    "viewScheme": {
+        "viewWebsite": "View Website",
+        "grievanceRedressa": "Grievance Redressa",
+        "howToApply": "How to Apply",
+        "documentation": "Documentation",
+        "addAReview": "Add a review",
+        "yourReview": "Your review",
+        "reviewErrorMessage": "Your review must be at least 50 characters ",
+        "reviewErrorMessageSpan": "Full review guidelines",
+        "reviewAndStartRequired": "Review && Star Rating Required",
+        "reviewRequired": "Review Required",
+        "reviewRequiredLength": "Review must be at least 50 characters",
+        "addRating": "Add Rating",
+        "overallRating": "Overall Rating",
+        "submit": "Submit",
+        "comments": "Comments",
+        "reply": "Reply",
+        "recommendation": {
+            "lable": "Recommendation",
+            "viewAllSchemes": "View All Schemes"
+        },
+        "testimonials": {
+            "lable": "Testimonials"
+        },
+        "questions": {
+            "lable": "Frequently Asked Questions",
+            "viewAllFAQs": "View All FAQs"
+        }
+    },
+    "jobs": {
+        "slider": {
+            "jobType": "Job Type",
+            "saved": "Saved",
+            "saveJob": "Save Job",
+            "applied": "Applied",
+            "applyNow": "Apply Now"
+        },
+        "filter": {
+            "state": "Select Your State",
+            "categories": "Categories",
+            "jobRole": "Job Role",
+            "search": "Search Jobs",
+            "clear": "Clear"
+        },
+        "state": {
+            "mumbai": "Mumbai",
+            "hyderabad": "Hyderabad",
+            "gujrat": "Gujrat",
+            "goa": "Goa",
+            "delhi": "Delhi",
+            "bangalore": "Bangalore",
+            "chennai": "Chennai",
+            "rajasthan": "Rajasthan"
+        },
+        "lable": "Job by Top Companies",
+        "jobs": "Jobs",
+        "viewAllJobs": "View All Jobs",
+        "job": {
+            "name": "Name",
+            "description": "Description",
+            "applyNow": "Apply Now"
+        },
+        "share": {
+            "facebook": "Facebook",
+            "linkedin": "Linkedin",
+            "twitter": "Twitter",
+            "whatsApp": "What’sApp"
+        },
+        "videosCard": {
+            "lable": "Informative videos related to Jobs",
+            "viewAllVideos": "View All Videos",
+            "watchNow": "Watch  Now"
+        },
+        "recommendationJob": {
+            "lable": "Recommendation Courses Related To Job",
+            "enrorecommendationJobllNow": "Enroll Now"
+        },
+        "viewAllCourses": "View All Courses"
+    },
+    "viewAllJob": {
+        "jobs": {
+            "loadMore": "Load More"
+        }
+    },
+    "viewSingleJob": {
+        "location": "Location",
+        "experience": "Experience",
+        "salary": "Salary",
+        "vacancies": "Vacancies",
+        "emailID": "Email ID",
+        "workingHrs": "Working hrs",
+        "jobType": "Job Type",
+        "button": {
+            "contactToHR": "Contact to HR",
+            "Share": "Share Job with your Friend"
+        },
+        "lable": "Job Details",
+        "howToApply": "How to Apply",
+        "documentation": "Documentation",
+        "recommendation": {
+            "lable": "Recommendation",
+            "applyNow": "Apply Now",
+            "viewAllSchemes": "View All Schemes"
+        },
+        "recommendationCourses": {
+            "lable": "Recommendation Courses Related To Job",
+            "enrollNow": "Enroll Now",
+            "viewAllCourses": "View All Courses"
+        },
+        "testimonials": {
+            "lable": "Testimonials"
+        },
+        "questions": {
+            "lable": "Frequently Asked Questions",
+            "viewAllFAQs": "View All FAQs"
+        }
+    },
+    "leran": {
+        "coursesLable": "Courses (Offline)",
+        "learnMore": "Learn More (Informative Video)"
+    },
+    "course": {
+        "slider": {
+            "saveCourse": "Save Course",
+            "savedCourse": "Saved Course",
+            "enroll": "Enroll",
+            "enrolled": "Enrolled"
+        },
+        "filter": {
+            "courseType": "Course Type",
+            "state": "State",
+            "ratings": "Ratings",
+            "search": "Search Courses",
+            "clear": "Clear"
+        },
+        "courses": {
+            "lable": "Courses",
+            "viewAllCourses": "View All Courses",
+            "readMore": "Read More"
+        },
+        "videos": {
+            "learnMore": {
+                "lable": "Learn More (Informative Videos)"
+            }
+        }
+    },
+    "viewAllCouses": {
+        "allCourses": {
+            "lable": "View All Courses"
+        }
+    },
+    "loadMore": {
+        "lable": "Load More",
+        "addAReview": "Add a review"
+    },
+    "viewSingalCourse": {
+        "modules": {
+            "lable": "Modules",
+            "viewAllModules": "View All Modules"
+        },
+        "addReview": {
+            "lable": "Add a review"
+        }
+    },
+    "Employee": {
+        "Header": {
+            "language": "EN"
+        },
+        "dashboard": {
+            "title": "Dashboard Overview",
+            "input": {
+                "findCandi": "Find candidate"
+            },
+            "btn": {
+                "postAJob": "Post a Job",
+                "loadMore": "Load More"
+            },
+            "table": {
+                "title": "Top Jobs",
+                "label": {
+                    "jobTitle": "Job Title",
+                    "activeApp": "Active applicants",
+                    "shortlisted": "Shortlisted",
+                    "hiredCand": "Hired Candidate",
+                    "jobStatus": "Job Status",
+                    "action": "Action"
+                }
+            },
+            "progressTable": {
+                "title": "No of applications by job type",
+                "subTitle": "applications",
+                "progressApp": "Applications"
+            }
+        },
+        "ActiveJobs": {
+            "title": "Active Jobs",
+            "input": {
+                "jobType": "Job Type",
+                "search": "Search by job and location",
+                "activecourses": "Active courses"
+            },
+            "card": {
+                "noOfVacancies": "No. of vacancies",
+                "jobPostedOn": "Job posted on"
+            },
+            "Btn": {
+                "viewAll": "View All"
+            }
+        },
+        "InActiveJobs": {
+            "title": "Inactive Jobs",
+            "input": {
+                "jobType": "Job Type",
+                "search": "Search by job and location",
+                "inactivecourses": "Inactive courses"
+            },
+            "card": {
+                "noOfVacancies": "No. of vacancies",
+                "jobPostedOn": "Job posted on"
+            },
+            "Btn": {
+                "viewAll": "View All"
+            }
+        },
+        "ClosedJobs": {
+            "title": "Closed Jobs",
+            "input": {
+                "search": "Search By Job Title and Location"
+            },
+            "card": {
+                "noOfVacancies": "No. of vacancies",
+                "jobPostedOn": "Job posted on"
+            },
+            "Btn": {
+                "viewAll": "View All"
+            }
+        },
+        "JobCard": {
+            "action": {
+                "viewApp": "View Applicants",
+                "edit": "Edit",
+                "deActive": "Deactivate",
+                "reActive": "Re-Activate"
+            }
+        },
+        "JobApp": {
+            "title": "Job Application",
+            "Btn": {
+                "exportJobApp": "Export Job Application",
+                "viewAll": "View All",
+                "clear": "Clear"
+            },
+            "input": {
+                "jobCate": "Job Category",
+                "jobRole": "Job Role"
+            },
+            "allApp": "All Application",
+            "shortApp": "Shortlisted Application",
+            "table": {
+                "name": "Name",
+                "mobNo": "Mobile Number",
+                "location": "Location",
+                "doa": "Date of Application",
+                "role": "Role Applied",
+                "action": "Action"
+            }
+        },
+        "JobPost": {
+            "title": "Post a Job",
+            "title2": "Edit Job",
+            "generalinfo": {
+                "title": "General info",
+                "recruiterFirstName": "Recruiter First Name",
+                "jobType": "Your Job Type",
+                "jobRole": "Your Job Role",
+                "DisplayOrder": "Display order",
+                "description": "Description",
+                "vacancies": "Vacancies",
+                "requireExperience": "Required Experience",
+                "salary": "Salary",
+                "benifits": "Benefits",
+                "requirements": "Requirements",
+                "type": "Type",
+                "extraType": "Extra Type",
+                "isActive": "Is Active",
+                "shifts": "Shifts",
+                "Post course": "Post course",
+                "Post course2": "Edit course"
+            },
+            "location": {
+                "title": "Location",
+                "pincode": "Select Your PIN Code",
+                "state": "Select Your State",
+                "city": "Select Your City",
+                "town": "Town"
+            },
+            "recruiterDetails": {
+                "title": "Recruiter's Details",
+                "phone": "Mobile Number",
+                "email": "Email ID",
+                "startData": "Start Date",
+                "endDate": "End Date"
+            },
+            "btn": {
+                "saveChanges": "Save changes"
+            }
+        }
+    },
+    "viewCourse": {
+        "Btn": {
+            "SaveCourse": "Save Course",
+            "Saved": "Saved",
+            "Enroll": "Enroll"
+        }
+    }
+}

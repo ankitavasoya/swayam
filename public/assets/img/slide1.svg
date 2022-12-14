@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="290px" height="170px" viewBox="0 0 290 170" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>9AE8003D-164C-4304-840B-DE7B71318813@2x</title>
+    <defs>
+        <path d="M10,0 L240,0 C245.522847,-1.01453063e-15 250,4.4771525 250,10 L250,120 C250,125.522847 245.522847,130 240,130 L10,130 C4.4771525,130 6.76353751e-16,125.522847 0,120 L0,10 C-6.76353751e-16,4.4771525 4.4771525,1.01453063e-15 10,0 Z" id="path-1"></path>
+        <filter x="-12.4%" y="-22.3%" width="124.8%" height="147.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-985.000000, -2607.000000)" id="Group-41">
+            <g transform="translate(-28.000000, 1117.000000)">
+                <g id="Group-36" transform="translate(188.500000, 1438.771845)">
+                    <g id="Partners" transform="translate(1.500000, 69.228155)">
+                        <g id="Group-32" transform="translate(33.000000, 0.000000)">
+                            <g id="Group-21" transform="translate(810.000000, 0.000000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Mask">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                </g>
+                                <text id="PRAGAT-NURSING" mask="url(#mask-2)" font-family="Lato-Bold, Lato" font-size="24" font-weight="bold" fill="#1E2B67">
+                                    <tspan x="21" y="75">PRAGAT NURSING</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

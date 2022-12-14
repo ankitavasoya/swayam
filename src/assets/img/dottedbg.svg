@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="132px" height="115px" viewBox="0 0 132 115" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>21935D36-7BCE-4AD4-B2E3-7BC79426419B@2x</title>
+    <defs>
+        <path d="M5.23,10.42 C8.12,10.42 10.46,8.091 10.46,5.212 C10.46,2.334 8.12,0 5.23,0 C2.34,0 0,2.334 0,5.212 C0,8.091 2.34,10.42 5.23,10.42 Z" id="path-1"></path>
+        <linearGradient x1="525.81262%" y1="1249.22056%" x2="-156.787763%" y2="-482.192217%" id="linearGradient-3">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23,10.42 C8.12,10.42 10.46,8.091 10.46,5.213 C10.46,2.334 8.12,0 5.23,0 C2.34,0 0,2.334 0,5.213 C0,8.091 2.34,10.42 5.23,10.42 Z" id="path-4"></path>
+        <linearGradient x1="486.806883%" y1="1151.22199%" x2="-195.793499%" y2="-580.190784%" id="linearGradient-6">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23,10.42 C8.12,10.42 10.46,8.091 10.46,5.213 C10.46,2.334 8.12,0 5.23,0 C2.34,0 0,2.334 0,5.213 C0,8.091 2.34,10.42 5.23,10.42 Z" id="path-7"></path>
+        <linearGradient x1="447.801147%" y1="1053.22342%" x2="-234.703633%" y2="-678.198875%" id="linearGradient-9">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23,10.42 C8.12,10.42 10.46,8.091 10.46,5.213 C10.46,2.334 8.12,0 5.23,0 C2.34,0 0,2.334 0,5.213 C0,8.091 2.34,10.42 5.23,10.42 Z" id="path-10"></path>
+        <linearGradient x1="408.891013%" y1="955.224857%" x2="-273.709369%" y2="-776.206965%" id="linearGradient-12">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23,10.42 C8.12,10.42 10.46,8.091 10.46,5.213 C10.46,2.334 8.12,0 5.23,0 C2.35,0 0,2.334 0,5.213 C0,8.091 2.35,10.42 5.23,10.42 Z" id="path-13"></path>
+        <linearGradient x1="369.885277%" y1="857.22629%" x2="-312.619503%" y2="-874.224579%" id="linearGradient-15">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23,10.43 C8.12,10.43 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,-1.13686838e-13 5.23,-1.13686838e-13 C2.34,-1.13686838e-13 0,2.33 0,5.21 C0,8.09 2.34,10.43 5.23,10.43 Z" id="path-16"></path>
+        <linearGradient x1="440.248566%" y1="1034.40563%" x2="-242.351816%" y2="-698.7355%" id="linearGradient-18">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23,10.43 C8.12,10.43 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,-1.13686838e-13 5.23,-1.13686838e-13 C2.34,-1.13686838e-13 0,2.33 0,5.21 C0,8.09 2.34,10.43 5.23,10.43 Z" id="path-19"></path>
+        <linearGradient x1="401.338432%" y1="936.313014%" x2="-281.357553%" y2="-796.847181%" id="linearGradient-21">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23,10.43 C8.12,10.43 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,-1.13686838e-13 5.23,-1.13686838e-13 C2.34,-1.13686838e-13 0,2.33 0,5.21 C0,8.09 2.34,10.43 5.23,10.43 Z" id="path-22"></path>
+        <linearGradient x1="362.332696%" y1="838.125071%" x2="-320.267686%" y2="-894.958862%" id="linearGradient-24">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23,10.43 C8.12,10.43 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,-1.13686838e-13 5.23,-1.13686838e-13 C2.34,-1.13686838e-13 0,2.33 0,5.21 C0,8.09 2.34,10.43 5.23,10.43 Z" id="path-25"></path>
+        <linearGradient x1="323.422562%" y1="740.032455%" x2="-359.273423%" y2="-993.06101%" id="linearGradient-27">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23,10.43 C8.12,10.43 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,-1.13686838e-13 5.23,-1.13686838e-13 C2.35,-1.13686838e-13 0,2.33 0,5.21 C0,8.09 2.35,10.43 5.23,10.43 Z" id="path-28"></path>
+        <linearGradient x1="284.416826%" y1="641.93984%" x2="-398.183556%" y2="-1091.17269%" id="linearGradient-30">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23,10.42 C8.12,10.42 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,0 5.23,0 C2.34,0 0,2.33 0,5.21 C0,8.09 2.34,10.42 5.23,10.42 Z" id="path-31"></path>
+        <linearGradient x1="354.780115%" y1="818.179242%" x2="-327.820268%" y2="-913.300199%" id="linearGradient-33">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23,10.42 C8.12,10.42 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,0 5.23,0 C2.34,0 0,2.33 0,5.21 C0,8.09 2.34,10.42 5.23,10.42 Z" id="path-34"></path>
+        <linearGradient x1="315.869981%" y1="720.180676%" x2="-366.826004%" y2="-1011.30829%" id="linearGradient-36">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23,10.42 C8.12,10.42 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,0 5.23,0 C2.34,0 0,2.33 0,5.21 C0,8.09 2.34,10.42 5.23,10.42 Z" id="path-37"></path>
+        <linearGradient x1="276.864245%" y1="622.182109%" x2="-405.736138%" y2="-1109.3259%" id="linearGradient-39">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23,10.42 C8.12,10.42 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,0 5.23,0 C2.34,0 0,2.33 0,5.21 C0,8.09 2.34,10.42 5.23,10.42 Z" id="path-40"></path>
+        <linearGradient x1="237.858509%" y1="524.088305%" x2="-444.741874%" y2="-1207.33399%" id="linearGradient-42">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23,10.42 C8.12,10.42 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,0 5.23,0 C2.35,0 0,2.33 0,5.21 C0,8.09 2.35,10.42 5.23,10.42 Z" id="path-43"></path>
+        <linearGradient x1="198.948375%" y1="426.089738%" x2="-483.74761%" y2="-1305.35161%" id="linearGradient-45">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23,10.42 C8.12,10.42 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,0 5.23,0 C2.34,0 0,2.33 0,5.21 C0,8.09 2.34,10.42 5.23,10.42 Z" id="path-46"></path>
+        <linearGradient x1="269.311663%" y1="602.372875%" x2="-413.288719%" y2="-1129.078%" id="linearGradient-48">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23,10.42 C8.12,10.42 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,0 5.23,0 C2.34,0 0,2.33 0,5.21 C0,8.09 2.34,10.42 5.23,10.42 Z" id="path-49"></path>
+        <linearGradient x1="230.305927%" y1="504.374308%" x2="-452.294455%" y2="-1227.08609%" id="linearGradient-51">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23,10.42 C8.12,10.42 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,0 5.23,0 C2.34,0 0,2.33 0,5.21 C0,8.09 2.34,10.42 5.23,10.42 Z" id="path-52"></path>
+        <linearGradient x1="191.395793%" y1="406.375741%" x2="-491.300191%" y2="-1325.09418%" id="linearGradient-54">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23,10.42 C8.12,10.42 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,0 5.23,0 C2.34,0 0,2.33 0,5.21 C0,8.09 2.34,10.42 5.23,10.42 Z" id="path-55"></path>
+        <linearGradient x1="152.390057%" y1="308.377174%" x2="-530.210325%" y2="-1423.10227%" id="linearGradient-57">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23,10.42 C8.12,10.42 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,0 5.23,0 C2.35,0 0,2.33 0,5.21 C0,8.09 2.35,10.42 5.23,10.42 Z" id="path-58"></path>
+        <linearGradient x1="113.479924%" y1="210.28337%" x2="-569.216061%" y2="-1521.1294%" id="linearGradient-60">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23,10.43 C8.12,10.43 10.46,8.1 10.46,5.22 C10.46,2.34 8.12,2.27373675e-13 5.23,2.27373675e-13 C2.34,2.27373675e-13 0,2.34 0,5.22 C0,8.1 2.34,10.43 5.23,10.43 Z" id="path-61"></path>
+        <linearGradient x1="183.843212%" y1="387.413812%" x2="-498.852772%" y2="-1345.67965%" id="linearGradient-63">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23,10.43 C8.12,10.43 10.46,8.1 10.46,5.22 C10.46,2.34 8.12,2.27373675e-13 5.23,2.27373675e-13 C2.34,2.27373675e-13 0,2.34 0,5.22 C0,8.1 2.34,10.43 5.23,10.43 Z" id="path-64"></path>
+        <linearGradient x1="144.837476%" y1="289.321196%" x2="-537.762906%" y2="-1443.7818%" id="linearGradient-66">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23,10.43 C8.12,10.43 10.46,8.1 10.46,5.22 C10.46,2.34 8.12,2.27373675e-13 5.23,2.27373675e-13 C2.34,2.27373675e-13 0,2.34 0,5.22 C0,8.1 2.34,10.43 5.23,10.43 Z" id="path-67"></path>
+        <linearGradient x1="105.927342%" y1="191.228581%" x2="-576.768642%" y2="-1541.89348%" id="linearGradient-69">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23,10.43 C8.12,10.43 10.46,8.1 10.46,5.22 C10.46,2.34 8.12,2.27373675e-13 5.23,2.27373675e-13 C2.34,2.27373675e-13 0,2.34 0,5.22 C0,8.1 2.34,10.43 5.23,10.43 Z" id="path-70"></path>
+        <linearGradient x1="66.9216061%" y1="93.1359655%" x2="-615.678776%" y2="-1639.99563%" id="linearGradient-72">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23,10.43 C8.12,10.43 10.46,8.1 10.46,5.22 C10.46,2.34 8.12,2.27373675e-13 5.23,2.27373675e-13 C2.35,2.27373675e-13 0,2.34 0,5.22 C0,8.1 2.35,10.43 5.23,10.43 Z" id="path-73"></path>
+        <linearGradient x1="27.91587%" y1="-4.95664993%" x2="-654.684512%" y2="-1738.10731%" id="linearGradient-75">
+            <stop stop-color="#97C3F9" offset="0%"></stop>
+            <stop stop-color="#93C1F9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.3">
+        <g transform="translate(42.000000, -723.000000)" id="Group">
+            <g transform="translate(-42.000000, 723.000000)">
+                <g id="Clipped" transform="translate(0.000000, -0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.42 C8.12,10.42 10.46,8.091 10.46,5.212 C10.46,2.334 8.12,0 5.23,0 C2.34,0 0,2.334 0,5.212 C0,8.091 2.34,10.42 5.23,10.42 Z" id="Path" fill="url(#linearGradient-3)" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Clipped" transform="translate(30.280000, -0.000000)">
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.42 C8.12,10.42 10.46,8.091 10.46,5.213 C10.46,2.334 8.12,0 5.23,0 C2.34,0 0,2.334 0,5.213 C0,8.091 2.34,10.42 5.23,10.42 Z" id="Path" fill="url(#linearGradient-6)" fill-rule="nonzero" mask="url(#mask-5)"></path>
+                </g>
+                <g id="Clipped" transform="translate(60.560000, -0.000000)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.42 C8.12,10.42 10.46,8.091 10.46,5.213 C10.46,2.334 8.12,0 5.23,0 C2.34,0 0,2.334 0,5.213 C0,8.091 2.34,10.42 5.23,10.42 Z" id="Path" fill="url(#linearGradient-9)" fill-rule="nonzero" mask="url(#mask-8)"></path>
+                </g>
+                <g id="Clipped" transform="translate(90.840000, -0.000000)">
+                    <mask id="mask-11" fill="white">
+                        <use xlink:href="#path-10"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.42 C8.12,10.42 10.46,8.091 10.46,5.213 C10.46,2.334 8.12,0 5.23,0 C2.34,0 0,2.334 0,5.213 C0,8.091 2.34,10.42 5.23,10.42 Z" id="Path" fill="url(#linearGradient-12)" fill-rule="nonzero" mask="url(#mask-11)"></path>
+                </g>
+                <g id="Clipped" transform="translate(121.120000, -0.000000)">
+                    <mask id="mask-14" fill="white">
+                        <use xlink:href="#path-13"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.42 C8.12,10.42 10.46,8.091 10.46,5.213 C10.46,2.334 8.12,0 5.23,0 C2.35,0 0,2.334 0,5.213 C0,8.091 2.35,10.42 5.23,10.42 Z" id="Path" fill="url(#linearGradient-15)" fill-rule="nonzero" mask="url(#mask-14)"></path>
+                </g>
+                <g id="Clipped" transform="translate(0.000000, 26.170000)">
+                    <mask id="mask-17" fill="white">
+                        <use xlink:href="#path-16"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.43 C8.12,10.43 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,-1.13686838e-13 5.23,-1.13686838e-13 C2.34,-1.13686838e-13 0,2.33 0,5.21 C0,8.09 2.34,10.43 5.23,10.43 Z" id="Path" fill="url(#linearGradient-18)" fill-rule="nonzero" mask="url(#mask-17)"></path>
+                </g>
+                <g id="Clipped" transform="translate(30.280000, 26.170000)">
+                    <mask id="mask-20" fill="white">
+                        <use xlink:href="#path-19"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.43 C8.12,10.43 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,-1.13686838e-13 5.23,-1.13686838e-13 C2.34,-1.13686838e-13 0,2.33 0,5.21 C0,8.09 2.34,10.43 5.23,10.43 Z" id="Path" fill="url(#linearGradient-21)" fill-rule="nonzero" mask="url(#mask-20)"></path>
+                </g>
+                <g id="Clipped" transform="translate(60.560000, 26.170000)">
+                    <mask id="mask-23" fill="white">
+                        <use xlink:href="#path-22"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.43 C8.12,10.43 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,-1.13686838e-13 5.23,-1.13686838e-13 C2.34,-1.13686838e-13 0,2.33 0,5.21 C0,8.09 2.34,10.43 5.23,10.43 Z" id="Path" fill="url(#linearGradient-24)" fill-rule="nonzero" mask="url(#mask-23)"></path>
+                </g>
+                <g id="Clipped" transform="translate(90.840000, 26.170000)">
+                    <mask id="mask-26" fill="white">
+                        <use xlink:href="#path-25"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.43 C8.12,10.43 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,-1.13686838e-13 5.23,-1.13686838e-13 C2.34,-1.13686838e-13 0,2.33 0,5.21 C0,8.09 2.34,10.43 5.23,10.43 Z" id="Path" fill="url(#linearGradient-27)" fill-rule="nonzero" mask="url(#mask-26)"></path>
+                </g>
+                <g id="Clipped" transform="translate(121.120000, 26.170000)">
+                    <mask id="mask-29" fill="white">
+                        <use xlink:href="#path-28"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.43 C8.12,10.43 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,-1.13686838e-13 5.23,-1.13686838e-13 C2.35,-1.13686838e-13 0,2.33 0,5.21 C0,8.09 2.35,10.43 5.23,10.43 Z" id="Path" fill="url(#linearGradient-30)" fill-rule="nonzero" mask="url(#mask-29)"></path>
+                </g>
+                <g id="Clipped" transform="translate(0.000000, 52.290000)">
+                    <mask id="mask-32" fill="white">
+                        <use xlink:href="#path-31"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.42 C8.12,10.42 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,0 5.23,0 C2.34,0 0,2.33 0,5.21 C0,8.09 2.34,10.42 5.23,10.42 Z" id="Path" fill="url(#linearGradient-33)" fill-rule="nonzero" mask="url(#mask-32)"></path>
+                </g>
+                <g id="Clipped" transform="translate(30.280000, 52.290000)">
+                    <mask id="mask-35" fill="white">
+                        <use xlink:href="#path-34"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.42 C8.12,10.42 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,0 5.23,0 C2.34,0 0,2.33 0,5.21 C0,8.09 2.34,10.42 5.23,10.42 Z" id="Path" fill="url(#linearGradient-36)" fill-rule="nonzero" mask="url(#mask-35)"></path>
+                </g>
+                <g id="Clipped" transform="translate(60.560000, 52.290000)">
+                    <mask id="mask-38" fill="white">
+                        <use xlink:href="#path-37"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.42 C8.12,10.42 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,0 5.23,0 C2.34,0 0,2.33 0,5.21 C0,8.09 2.34,10.42 5.23,10.42 Z" id="Path" fill="url(#linearGradient-39)" fill-rule="nonzero" mask="url(#mask-38)"></path>
+                </g>
+                <g id="Clipped" transform="translate(90.840000, 52.290000)">
+                    <mask id="mask-41" fill="white">
+                        <use xlink:href="#path-40"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.42 C8.12,10.42 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,0 5.23,0 C2.34,0 0,2.33 0,5.21 C0,8.09 2.34,10.42 5.23,10.42 Z" id="Path" fill="url(#linearGradient-42)" fill-rule="nonzero" mask="url(#mask-41)"></path>
+                </g>
+                <g id="Clipped" transform="translate(121.120000, 52.290000)">
+                    <mask id="mask-44" fill="white">
+                        <use xlink:href="#path-43"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.42 C8.12,10.42 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,0 5.23,0 C2.35,0 0,2.33 0,5.21 C0,8.09 2.35,10.42 5.23,10.42 Z" id="Path" fill="url(#linearGradient-45)" fill-rule="nonzero" mask="url(#mask-44)"></path>
+                </g>
+                <g id="Clipped" transform="translate(0.000000, 78.460000)">
+                    <mask id="mask-47" fill="white">
+                        <use xlink:href="#path-46"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.42 C8.12,10.42 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,0 5.23,0 C2.34,0 0,2.33 0,5.21 C0,8.09 2.34,10.42 5.23,10.42 Z" id="Path" fill="url(#linearGradient-48)" fill-rule="nonzero" mask="url(#mask-47)"></path>
+                </g>
+                <g id="Clipped" transform="translate(30.280000, 78.460000)">
+                    <mask id="mask-50" fill="white">
+                        <use xlink:href="#path-49"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.42 C8.12,10.42 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,0 5.23,0 C2.34,0 0,2.33 0,5.21 C0,8.09 2.34,10.42 5.23,10.42 Z" id="Path" fill="url(#linearGradient-51)" fill-rule="nonzero" mask="url(#mask-50)"></path>
+                </g>
+                <g id="Clipped" transform="translate(60.560000, 78.460000)">
+                    <mask id="mask-53" fill="white">
+                        <use xlink:href="#path-52"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.42 C8.12,10.42 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,0 5.23,0 C2.34,0 0,2.33 0,5.21 C0,8.09 2.34,10.42 5.23,10.42 Z" id="Path" fill="url(#linearGradient-54)" fill-rule="nonzero" mask="url(#mask-53)"></path>
+                </g>
+                <g id="Clipped" transform="translate(90.840000, 78.460000)">
+                    <mask id="mask-56" fill="white">
+                        <use xlink:href="#path-55"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.42 C8.12,10.42 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,0 5.23,0 C2.34,0 0,2.33 0,5.21 C0,8.09 2.34,10.42 5.23,10.42 Z" id="Path" fill="url(#linearGradient-57)" fill-rule="nonzero" mask="url(#mask-56)"></path>
+                </g>
+                <g id="Clipped" transform="translate(121.120000, 78.460000)">
+                    <mask id="mask-59" fill="white">
+                        <use xlink:href="#path-58"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.42 C8.12,10.42 10.46,8.09 10.46,5.21 C10.46,2.33 8.12,0 5.23,0 C2.35,0 0,2.33 0,5.21 C0,8.09 2.35,10.42 5.23,10.42 Z" id="Path" fill="url(#linearGradient-60)" fill-rule="nonzero" mask="url(#mask-59)"></path>
+                </g>
+                <g id="Clipped" transform="translate(0.000000, 104.570000)">
+                    <mask id="mask-62" fill="white">
+                        <use xlink:href="#path-61"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.43 C8.12,10.43 10.46,8.1 10.46,5.22 C10.46,2.34 8.12,2.27373675e-13 5.23,2.27373675e-13 C2.34,2.27373675e-13 0,2.34 0,5.22 C0,8.1 2.34,10.43 5.23,10.43 Z" id="Path" fill="url(#linearGradient-63)" fill-rule="nonzero" mask="url(#mask-62)"></path>
+                </g>
+                <g id="Clipped" transform="translate(30.280000, 104.570000)">
+                    <mask id="mask-65" fill="white">
+                        <use xlink:href="#path-64"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.43 C8.12,10.43 10.46,8.1 10.46,5.22 C10.46,2.34 8.12,2.27373675e-13 5.23,2.27373675e-13 C2.34,2.27373675e-13 0,2.34 0,5.22 C0,8.1 2.34,10.43 5.23,10.43 Z" id="Path" fill="url(#linearGradient-66)" fill-rule="nonzero" mask="url(#mask-65)"></path>
+                </g>
+                <g id="Clipped" transform="translate(60.560000, 104.570000)">
+                    <mask id="mask-68" fill="white">
+                        <use xlink:href="#path-67"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.43 C8.12,10.43 10.46,8.1 10.46,5.22 C10.46,2.34 8.12,2.27373675e-13 5.23,2.27373675e-13 C2.34,2.27373675e-13 0,2.34 0,5.22 C0,8.1 2.34,10.43 5.23,10.43 Z" id="Path" fill="url(#linearGradient-69)" fill-rule="nonzero" mask="url(#mask-68)"></path>
+                </g>
+                <g id="Clipped" transform="translate(90.840000, 104.570000)">
+                    <mask id="mask-71" fill="white">
+                        <use xlink:href="#path-70"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.43 C8.12,10.43 10.46,8.1 10.46,5.22 C10.46,2.34 8.12,2.27373675e-13 5.23,2.27373675e-13 C2.34,2.27373675e-13 0,2.34 0,5.22 C0,8.1 2.34,10.43 5.23,10.43 Z" id="Path" fill="url(#linearGradient-72)" fill-rule="nonzero" mask="url(#mask-71)"></path>
+                </g>
+                <g id="Clipped" transform="translate(121.120000, 104.570000)">
+                    <mask id="mask-74" fill="white">
+                        <use xlink:href="#path-73"></use>
+                    </mask>
+                    <g id="Path"></g>
+                    <path d="M5.23,10.43 C8.12,10.43 10.46,8.1 10.46,5.22 C10.46,2.34 8.12,2.27373675e-13 5.23,2.27373675e-13 C2.35,2.27373675e-13 0,2.34 0,5.22 C0,8.1 2.35,10.43 5.23,10.43 Z" id="Path" fill="url(#linearGradient-75)" fill-rule="nonzero" mask="url(#mask-74)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

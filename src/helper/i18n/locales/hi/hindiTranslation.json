@@ -1,0 +1,482 @@
+{
+    "Header": {
+        "title": "चलो एक साथ बढ़ते हैं",
+        "get_started": "शरुआत करे",
+        "Jobs": "नौकरियां",
+        "Schemes": "योजनाओं",
+        "Learn": "सीखना",
+        "home": "घर",
+        "english": "English",
+        "hindi": "हिन्दी",
+        "marathi": "मराठी",
+        "lanFlag": "हि",
+        "downloadOurApp": "हमारा ऐप डाउनलोड करें",
+        "swayamConnect": "स्वयं कनेक्ट"
+    },
+    "Footer": {
+        "contactUs": "संपर्क करें",
+        "downOurApp": "हमारा ऐप डाउनलोड करें",
+        "swayamConnect": {
+            "title": "स्वयं कनेक्ट",
+            "aboutUs": "हमारे बारे में",
+            "careers": "करियर",
+            "testimonials": "प्रशंसापत्र",
+            "press": "प्रेस/मीडिया"
+        },
+        "quickLinks": {
+            "title": "त्वरित सम्पक",
+            "jobs": "नौकरियां",
+            "courses": "पाठ्यक्रम",
+            "govSchemes": "सरकारी योजनाएं"
+        },
+        "help": {
+            "title": "मदद",
+            "contactUs": "संपर्क करें",
+            "freAskQues": "अधिकतर पूछे जाने वाले सवाल",
+            "regLocator": "क्षेत्र लोकेटर"
+        },
+        "connectWith": "हमारे साथ जुड़ें",
+        "copyright": "कॉपीराइट©2020.सर्वाधिकार सुरक्षित स्वयं कनेक्ट।",
+        "privacy": "गोपनीयता",
+        "termAndCond": "नियम और शर्तें"
+    },
+    "chooseLanguageModel": {
+        "title": "अपनी पसंदीदा भाषा चुनें",
+        "done": "पूर्ण"
+    },
+    "Navbar": {
+        "dashboard": "डैशबोर्ड",
+        "jobs": "नौकरियां",
+        "activate": "सक्रिय",
+        "saved": "बचाया",
+        "schems": "योजनाएं",
+        "courses": "पाठ्यक्रम",
+        "downloadCourses": "पाठ्यक्रम डाउनलोड करें",
+        "changePassword": "पासवर्ड बदलें",
+        "myProfile": "मेरी प्रोफाइल",
+        "support": "सहायता",
+        "logout": "लॉग आउट"
+    },
+    "LoginModel": {
+        "title": "मैं के रूप में लॉगिन करना चाहता हूँ",
+        "subTitle": "कल किराए पर लेने के लिए आज ही एक कोर्स में भाग लें",
+        "RoleMngBtn": {
+            "candidate": "उम्मीदवार",
+            "employee": "नियोक्ता",
+            "partner": "साझेदार"
+        },
+        "loginMethod": {
+            "mobile": "मोबाइल के माध्यम से",
+            "email": "ईमेल आईडी के माध्यम से"
+        },
+        "inputLabel": {
+            "mobile": "अपना मोबाइल नंबर दर्ज करें",
+            "email": "अपना ईमेल दर्ज करें",
+            "password": "अपना पासवर्ड दर्ज करें"
+        },
+        "inputError": {
+            "mobile": "",
+            "email": "ईमेल की जरूरत है",
+            "password": "पासवर्ड की आवश्यकता है"
+        },
+        "forgotPassword": "पासवर्ड भूल गए",
+        "loginBtn": "लॉग इन करें",
+        "registerDesLable": "हमारे पास खाता नहीं है?",
+        "registerLable": "पंजीकरण करवाना"
+    },
+    "ForgotPasswordModal": {
+        "title": "पासवर्ड भूल गए",
+        "subTitle": "अपनी पंजीकृत ईमेल आईडी या मोबाइल नंबर दर्ज करें।",
+        "inputLabel": "ईएमआई आईडी / मोबाइल नंबर दर्ज करें",
+        "backBtn": "पीछे",
+        "continueBtn": "जारी रखना",
+        "registerDesLabel": "हमारे पास खाता नहीं है?",
+        "registerLabel": "पंजीकरण करवाना"
+    },
+    "ForgotPasswordSuccessModal": {
+        "title": "पासवर्ड भूल गए",
+        "description": "रीसेट लिंक आपके पंजीकृत ईमेल आईडी और मोबाइल नंबर पर भेज दिया गया है",
+        "resend": "पुन: भेजें"
+    },
+    "EmployeePanel": {
+        "Sidebar": {
+            "dashboard": "डैशबोर्ड",
+            "activeJobs": "सक्रिय नौकरियां",
+            "inactiveJobs": "निष्क्रिय नौकरियां",
+            "closedJobs": "बंद नौकरियां",
+            "postaJob": "नौकरी पोस्ट करें",
+            "jobApplication": "नौकरी के लिए आवेदन"
+        }
+    },
+    "Home": {
+        "GrowToGratherCard": {
+            "skills": "हेल्थकेयर पाठ्यक्रम और कौशल",
+            "jobs": "नौकरियां खोजें",
+            "schemes": "200+ सरकारी योजनाओं का अन्वेषण करें",
+            "update": "नवीनतम समाचार और अपडेट"
+        },
+        "Skill": {
+            "title": "नए कौशल प्राप्त करें",
+            "subTitle": "क्लिक करें, नामांकन करें और सीखें",
+            "enrollForFree": "नि: शुल्क पंजीयन कराएं",
+            "viewAllBtn": "सभी को देखें"
+        },
+        "opportunities": {
+            "title": "नए अवसरों की खोज करें",
+            "subTitle": "ब्राउज़ करें, आवेदन करें, किराए पर लें",
+            "applyNow": "अभी अप्लाई करें",
+            "viewAllBtn": "सभी को देखें"
+        },
+        "news": {
+            "title": "नए अपडेट",
+            "subTitle": "प्रकाशन और ग्राफिक डिजाइन में, लोरेम इप्सम आपके लिए सामान्य रूप से प्रासंगिक एक क्यूरेट की गई जानकारी है",
+            "readMore": "अधिक पढ़ें",
+            "viewAllBtn": "सभी को देखें"
+        },
+        "downBanner": {
+            "title": "अभी स्वयं कनेक्ट ऐप डाउनलोड करें और आरंभ करें",
+            "subTitle": "राइट वुमन, राइट जॉब। महिला के लिए, विकास के साथ।",
+            "downloadApp": "हमारा ऐप डाउनलोड करें"
+        },
+        "getStatedBanner": {
+            "title": "शरुआत करे",
+            "subTitle": "अपनी यात्रा शुरू करने के लिए बस 3 कदम दूर !!",
+            "step1": "लॉग इन/जुड़ें",
+            "step2": "अपनी प्रोफ़ाइल बनाएं",
+            "step3": "कौशल, नौकरी और नवीनतम अपडेट के साथ अपना करियर शुरू करें।",
+            "#title": "#स्वयं है तो मुमकिन है"
+        }
+    },
+    "scheme": {
+        "slider": {
+            "benefit": "फायदा",
+            "beneficiary": "लाभार्थी",
+            "saveScheme": "बचत योजना",
+            "savedScheme": "सहेजी गई योजना",
+            "enroll": "नामांकन",
+            "enrolled": "दाखिला लिया"
+        },
+        "filter": {
+            "state": "अपना राज्य चुनें",
+            "benifits": "फायदा",
+            "ratings": "रेटिंग्स",
+            "schemeCategory": "योजना श्रेणी",
+            "search": "योजनाएं खोजें",
+            "clear": "साफ़"
+        }
+    },
+    "allScheme": {
+        "schemes": "योजनाओं",
+        "viewAllSchemes": "सभी योजनाएं देखें",
+        "readMore": "अधिक पढ़ें"
+    },
+    "viewAllScheme": {
+        "allScheme": "सभी योजनाएं",
+        "loadMore": "और लोड करें"
+    },
+    "viewScheme": {
+        "viewWebsite": "वेबसाइट देखें",
+        "grievanceRedressa": "शिकायत निवारण",
+        "howToApply": "आवेदन कैसे करें",
+        "documentation": "प्रलेखन",
+        "addAReview": "कोई समीक्षा जोड़ें",
+        "yourReview": "आपकी समीक्षा",
+        "reviewErrorMessage": "आपकी समीक्षा कम से कम 50 वर्णों की होनी चाहिए ",
+        "reviewErrorMessageSpan": "पूर्ण समीक्षा दिशानिर्देश",
+        "reviewAndStartRequired": "समीक्षा && स्टार रेटिंग आवश्यक",
+        "reviewRequired": "समीक्षा आवश्यक",
+        "reviewRequiredLength": "समीक्षा कम से कम 50 वर्णों की होनी चाहिए",
+        "addRating": "रेटिंग जोड़ें",
+        "overallRating": "समग्र रेटिंग",
+        "submit": "प्रस्तुत करना",
+        "comments": "टिप्पणियाँ",
+        "reply": "जवाब",
+        "recommendation": {
+            "lable": "अनुशंसा",
+            "viewAllSchemes": "सभी योजनाएं देखें"
+        },
+        "testimonials": {
+            "lable": "नियतिपत्र"
+        },
+        "questions": {
+            "lable": "अधिकतर पूछे जाने वाले प्रश्न",
+            "viewAllFAQs": "सभी सामान्य प्रश्न देखें"
+        }
+    },
+    "jobs": {
+        "slider": {
+            "jobType": "कार्य का प्रकार",
+            "saved": "बचाया",
+            "saveJob": "नौकरी बचाओ",
+            "applied": "लागू",
+            "applyNow": "अभी अप्लाई करें"
+        },
+        "filter": {
+            "state": "अपना राज्य चुनें",
+            "categories": "श्रेण्या",
+            "jobRole": "नौकरी भूमिका",
+            "search": "नौकरी खोजें",
+            "clear": "साफ़"
+        },
+        "state": {
+            "mumbai": "मुंबई",
+            "hyderabad": "हैदराबाद",
+            "gujrat": "गुजरात",
+            "goa": "गोवा",
+            "delhi": "दिल्ली",
+            "bangalore": "बैंगलोर",
+            "chennai": "चेन्नई",
+            "rajasthan": "राजस्थान"
+        },
+        "lable": "शीर्ष कंपनियों द्वारा नौकरी",
+        "jobs": "नौकरियां",
+        "viewAllJobs": "सभी नौकरियां देखें",
+        "job": {
+            "name": "नाम",
+            "description": "विवरण",
+            "applyNow": "अभी अप्लाई करें"
+        },
+        "share": {
+            "facebook": "फेसबुक",
+            "linkedin": "लिंक्डइन",
+            "twitter": "ट्विटर",
+            "whatsApp": "व्हाट्सएप"
+        },
+        "videosCard": {
+            "lable": "जॉब्स से संबंधित जानकारीपूर्ण वीडियो",
+            "viewAllVideos": "सभी वीडियो देखें",
+            "watchNow": "अब देखिए"
+        },
+        "recommendationJob": {
+            "lable": "नौकरी से संबंधित सिफारिश पाठ्यक्रम",
+            "enrollNow": "अभी दाखिला लें"
+        },
+        "viewAllCourses": "सभी पाठ्यक्रम देखें"
+    },
+    "viewAllJob": {
+        "jobs": {
+            "loadMore": "और लोड करें"
+        }
+    },
+    "viewSingleJob": {
+        "location": "स्थान",
+        "experience": "अनुभव",
+        "salary": "वेतन",
+        "vacancies": "रिक्त पद",
+        "emailID": "ईमेल आईडी",
+        "workingHrs": "काम के घंटे",
+        "jobType": "कार्य का प्रकार",
+        "button": {
+            "contactToHR": "एचआर से संपर्क करें",
+            "Share": "अपने दोस्त के साथ नौकरी साझा करें"
+        },
+        "lable": "नौकरी विवरण",
+        "howToApply": "आवेदन कैसे करें",
+        "documentation": "प्रलेखन",
+        "recommendation": {
+            "lable": "अनुशंसा",
+            "applyNow": "अभी अप्लाई करें",
+            "viewAllSchemes": "सभी योजनाएं देखें"
+        },
+        "recommendationCourses": {
+            "lable": "नौकरी से संबंधित सिफारिश पाठ्यक्रम",
+            "enrollNow": "अभी दाखिला लें",
+            "viewAllCourses": "सभी पाठ्यक्रम देखें"
+        },
+        "testimonials": {
+            "lable": "नियतिपत्र"
+        },
+        "questions": {
+            "lable": "अधिकतर पूछे जाने वाले प्रश्न",
+            "viewAllFAQs": "सभी सामान्य प्रश्न देखें"
+        }
+    },
+    "leran": {
+        "coursesLable": "पाठ्यक्रम (ऑफलाइन)",
+        "learnMore": "अधिक जानें (सूचनात्मक वीडियो)"
+    },
+    "course": {
+        "slider": {
+            "saveCourse": "पाठ्यक्रम सहेजें",
+            "savedCourse": "सहेजा गया पाठ्यक्रम",
+            "enroll": "नामांकन",
+            "enrolled": "दाखिला लिया"
+        },
+        "filter": {
+            "courseType": "कोर्स का प्रकार",
+            "state": "अपना राज्य चुनें",
+            "ratings": "रेटिंग्स",
+            "search": "कोर्स खोजें",
+            "clear": "साफ़"
+        },
+        "courses": {
+            "lable": "पाठ्यक्रम",
+            "viewAllCourses": "सभी पाठ्यक्रम देखें",
+            "readMore": "अधिक पढ़ें"
+        },
+        "videos": {
+            "learnMore": {
+                "lable": "अधिक जानें (सूचनात्मक वीडियो)"
+            }
+        }
+    },
+    "viewAllCouses": {
+        "allCourses": {
+            "lable": "सभी पाठ्यक्रम देखें"
+        }
+    },
+    "loadMore": {
+        "lable": "और लोड करें",
+        "addAReview": "कोई समीक्षा जोड़ें"
+    },
+    "viewSingalCourse": {
+        "modules": {
+            "lable": "मॉड्यूल",
+            "viewAllModules": "सभी मॉड्यूल देखें"
+        }
+    },
+    "Employee": {
+        "Header": {
+            "language": "ही"
+        },
+        "dashboard": {
+            "title": "डैशबोर्ड अवलोकन",
+            "input": {
+                "findCandi": "उम्मीदवार खोजें"
+            },
+            "btn": {
+                "postAJob": "नौकरी पोस्ट करें",
+                "loadMore": "और लोड करें"
+            },
+            "table": {
+                "title": "शीर्ष नौकरियां",
+                "label": {
+                    "jobTitle": "नौकरी का नाम",
+                    "activeApp": "सक्रिय आवेदक",
+                    "shortlisted": "चुने",
+                    "hiredCand": "किराए के उम्मीदवार",
+                    "jobStatus": "कार्य स्थिति",
+                    "action": "गतिविधि"
+                }
+            },
+            "progressTable": {
+                "title": "नौकरी के प्रकार के अनुसार आवेदनों की संख्या",
+                "subTitle": "आवेदन पत्र",
+                "progressApp": "आवेदन पत्र"
+            }
+        },
+        "ActiveJobs": {
+            "title": "सक्रिय नौकरियां",
+            "input": {
+                "jobType": "कार्य का प्रकार",
+                "search": "नौकरी और स्थान के आधार पर खोजें",
+                "activecourses": "सक्रिय कोर्स"
+            },
+            "card": {
+                "noOfVacancies": "रिक्तियों की संख्या",
+                "jobPostedOn": "नौकरी पोस्ट की गई"
+            },
+            "Btn": {
+                "viewAll": "सभी को देखें"
+            }
+        },
+        "InActiveJobs": {
+            "title": "निष्क्रिय नौकरियां",
+            "input": {
+                "jobType": "कार्य का प्रकार",
+                "search": "नौकरी और स्थान के आधार पर खोजें",
+                "inactivecourses": "निष्क्रिय कोर्स"
+            },
+            "card": {
+                "noOfVacancies": "रिक्तियों की संख्या",
+                "jobPostedOn": "नौकरी पोस्ट की गई"
+            },
+            "Btn": {
+                "viewAll": "सभी को देखें"
+            }
+        },
+        "ClosedJobs": {
+            "title": "बंद नौकरियां",
+            "input": {
+                "search": "नौकरी के शीर्षक और स्थान के आधार पर खोजें"
+            },
+            "card": {
+                "noOfVacancies": "रिक्तियों की संख्या",
+                "jobPostedOn": "नौकरी पोस्ट की गई"
+            },
+            "Btn": {
+                "viewAll": "सभी को देखें"
+            }
+        },
+        "JobCard": {
+            "action": {
+                "viewApp": "आवेदक देखें",
+                "edit": "सम्पादित करे",
+                "deActive": "निष्क्रिय करें",
+                "reActive": "पुन: सक्रिय करें"
+            }
+        },
+        "JobApp": {
+            "title": "नौकरी के लिए आवेदन",
+            "Btn": {
+                "exportJobApp": "निर्यात नौकरी आवेदन",
+                "viewAll": "सभी को देखें",
+                "clear": "साफ़"
+            },
+            "input": {
+                "jobCate": "नौकरी श्रेणी",
+                "jobRole": "नौकरी भूमिका"
+            },
+            "allApp": "सभी आवेदन",
+            "shortApp": "शॉर्टलिस्टेड आवेदन",
+            "table": {
+                "name": "नाम",
+                "mobNo": "मोबाइल नंबर",
+                "location": "स्थान",
+                "doa": "आवेदन की तारीख",
+                "role": "भूमिका लागू",
+                "action": "गतिविधि"
+            }
+        },
+        "JobPost": {
+            "title": "एक नौकरी पोस्ट करो",
+            "title2": "नौकरी संपादित करें",
+            "generalinfo": {
+                "title": "सामान्य जानकारी",
+                "recruiterFirstName": "भर्तीकर्ता का पहला नाम",
+                "jobType": "आपकी नौकरी का प्रकार",
+                "jobRole": "आपकी नौकरी की भूमिका",
+                "DisplayOrder": "प्रस्तुति का क्रम",
+                "description": "विवरण",
+                "vacancies": "रिक्त पद",
+                "requireExperience": "आवश्यक अनुभव",
+                "salary": "वेतन",
+                "benifits": "फायदा",
+                "requirements": "आवश्यकताएं",
+                "type": "प्रकार",
+                "extraType": "अतिरिक्त प्रकार",
+                "isActive": "सक्रिय है",
+                "shifts": "परिवर्तन",
+                "Post course": "पोस्ट कोर्स",
+                "Post course2": "पाठ्यक्रम संपादित करें"
+            },
+            "location": {
+                "title": "स्थान",
+                "pincode": "अपना पिन कोड चुनें",
+                "state": "अपना राज्य चुनें",
+                "city": "अपना शहर चुनें",
+                "town": "नगर"
+            },
+            "recruiterDetails": {
+                "title": "भर्तीकर्ता का विवरण",
+                "phone": "मोबाइल नंबर",
+                "email": "ईमेल आईडी",
+                "startData": "आरंभ करने की तिथि",
+                "endDate": "अंतिम तिथि"
+            },
+            "btn": {
+                "saveChanges": "परिवर्तनों को सुरक्षित करें"
+            }
+        }
+    }
+}
